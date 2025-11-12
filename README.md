@@ -58,6 +58,10 @@ The **Solar Challenge Dashboard** is a professional, data-driven web application
 ---
 
 ## 🖼️ Demo
+<img width="1860" height="970" alt="image" src="https://github.com/user-attachments/assets/8facf14a-b2bc-4395-ab41-4031fd669fc8" />
+<img width="1913" height="963" alt="Screenshot 2025-11-12 044245" src="https://github.com/user-attachments/assets/12812414-4820-4748-ac81-1032ed6e8f0d" />
+<img width="1904" height="989" alt="Screenshot 2025-11-12 044135" src="https://github.com/user-attachments/assets/4ba9f6ea-0b82-4fd0-a0ba-c24206d46cba" />
+
 
 ### Dashboard Interface
 ```
