@@ -2,5 +2,7 @@ pandas
 matplotlib
 seaborn
 streamlit
-numpy
 scipy
+numpy
+requests==2.31.0
+pyarrow==14.0.1
