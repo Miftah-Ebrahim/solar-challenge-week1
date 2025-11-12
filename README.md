@@ -58,6 +58,7 @@ The **Solar Challenge Dashboard** is a professional, data-driven web application
 ---
 
 ## 🖼️ Dashboard
+deployed web link: https://solar-challenge-week-mif.streamlit.app/
 
 <img width="1860" height="970" alt="image" src="https://github.com/user-attachments/assets/8facf14a-b2bc-4395-ab41-4031fd669fc8" />
 <img width="1913" height="963" alt="Screenshot 2025-11-12 044245" src="https://github.com/user-attachments/assets/12812414-4820-4748-ac81-1032ed6e8f0d" />
